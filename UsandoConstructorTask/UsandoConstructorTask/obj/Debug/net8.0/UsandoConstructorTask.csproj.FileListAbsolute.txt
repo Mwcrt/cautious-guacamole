@@ -1,0 +1,14 @@
+C:\Users\migue\source\repos\UsandoConstructorTask\UsandoConstructorTask\bin\Debug\net8.0\UsandoConstructorTask.exe
+C:\Users\migue\source\repos\UsandoConstructorTask\UsandoConstructorTask\bin\Debug\net8.0\UsandoConstructorTask.deps.json
+C:\Users\migue\source\repos\UsandoConstructorTask\UsandoConstructorTask\bin\Debug\net8.0\UsandoConstructorTask.runtimeconfig.json
+C:\Users\migue\source\repos\UsandoConstructorTask\UsandoConstructorTask\bin\Debug\net8.0\UsandoConstructorTask.dll
+C:\Users\migue\source\repos\UsandoConstructorTask\UsandoConstructorTask\bin\Debug\net8.0\UsandoConstructorTask.pdb
+C:\Users\migue\source\repos\UsandoConstructorTask\UsandoConstructorTask\obj\Debug\net8.0\UsandoConstructorTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\source\repos\UsandoConstructorTask\UsandoConstructorTask\obj\Debug\net8.0\UsandoConstructorTask.AssemblyInfoInputs.cache
+C:\Users\migue\source\repos\UsandoConstructorTask\UsandoConstructorTask\obj\Debug\net8.0\UsandoConstructorTask.AssemblyInfo.cs
+C:\Users\migue\source\repos\UsandoConstructorTask\UsandoConstructorTask\obj\Debug\net8.0\UsandoConstructorTask.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\UsandoConstructorTask\UsandoConstructorTask\obj\Debug\net8.0\UsandoConstructorTask.dll
+C:\Users\migue\source\repos\UsandoConstructorTask\UsandoConstructorTask\obj\Debug\net8.0\refint\UsandoConstructorTask.dll
+C:\Users\migue\source\repos\UsandoConstructorTask\UsandoConstructorTask\obj\Debug\net8.0\UsandoConstructorTask.pdb
+C:\Users\migue\source\repos\UsandoConstructorTask\UsandoConstructorTask\obj\Debug\net8.0\UsandoConstructorTask.genruntimeconfig.cache
+C:\Users\migue\source\repos\UsandoConstructorTask\UsandoConstructorTask\obj\Debug\net8.0\ref\UsandoConstructorTask.dll

@@ -1,0 +1,14 @@
+C:\Users\migue\source\repos\UsandoTaskFactoryStartNew\UsandoTaskFactoryStartNew\bin\Debug\net8.0\UsandoTaskFactoryStartNew.exe
+C:\Users\migue\source\repos\UsandoTaskFactoryStartNew\UsandoTaskFactoryStartNew\bin\Debug\net8.0\UsandoTaskFactoryStartNew.deps.json
+C:\Users\migue\source\repos\UsandoTaskFactoryStartNew\UsandoTaskFactoryStartNew\bin\Debug\net8.0\UsandoTaskFactoryStartNew.runtimeconfig.json
+C:\Users\migue\source\repos\UsandoTaskFactoryStartNew\UsandoTaskFactoryStartNew\bin\Debug\net8.0\UsandoTaskFactoryStartNew.dll
+C:\Users\migue\source\repos\UsandoTaskFactoryStartNew\UsandoTaskFactoryStartNew\bin\Debug\net8.0\UsandoTaskFactoryStartNew.pdb
+C:\Users\migue\source\repos\UsandoTaskFactoryStartNew\UsandoTaskFactoryStartNew\obj\Debug\net8.0\UsandoTaskFactoryStartNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\source\repos\UsandoTaskFactoryStartNew\UsandoTaskFactoryStartNew\obj\Debug\net8.0\UsandoTaskFactoryStartNew.AssemblyInfoInputs.cache
+C:\Users\migue\source\repos\UsandoTaskFactoryStartNew\UsandoTaskFactoryStartNew\obj\Debug\net8.0\UsandoTaskFactoryStartNew.AssemblyInfo.cs
+C:\Users\migue\source\repos\UsandoTaskFactoryStartNew\UsandoTaskFactoryStartNew\obj\Debug\net8.0\UsandoTaskFactoryStartNew.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\UsandoTaskFactoryStartNew\UsandoTaskFactoryStartNew\obj\Debug\net8.0\UsandoTaskFactoryStartNew.dll
+C:\Users\migue\source\repos\UsandoTaskFactoryStartNew\UsandoTaskFactoryStartNew\obj\Debug\net8.0\refint\UsandoTaskFactoryStartNew.dll
+C:\Users\migue\source\repos\UsandoTaskFactoryStartNew\UsandoTaskFactoryStartNew\obj\Debug\net8.0\UsandoTaskFactoryStartNew.pdb
+C:\Users\migue\source\repos\UsandoTaskFactoryStartNew\UsandoTaskFactoryStartNew\obj\Debug\net8.0\UsandoTaskFactoryStartNew.genruntimeconfig.cache
+C:\Users\migue\source\repos\UsandoTaskFactoryStartNew\UsandoTaskFactoryStartNew\obj\Debug\net8.0\ref\UsandoTaskFactoryStartNew.dll

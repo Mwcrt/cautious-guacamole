@@ -1,0 +1,14 @@
+C:\Users\migue\source\repos\UsandoTaskRun\UsandoTaskRun\bin\Debug\net8.0\UsandoTaskRun.exe
+C:\Users\migue\source\repos\UsandoTaskRun\UsandoTaskRun\bin\Debug\net8.0\UsandoTaskRun.deps.json
+C:\Users\migue\source\repos\UsandoTaskRun\UsandoTaskRun\bin\Debug\net8.0\UsandoTaskRun.runtimeconfig.json
+C:\Users\migue\source\repos\UsandoTaskRun\UsandoTaskRun\bin\Debug\net8.0\UsandoTaskRun.dll
+C:\Users\migue\source\repos\UsandoTaskRun\UsandoTaskRun\bin\Debug\net8.0\UsandoTaskRun.pdb
+C:\Users\migue\source\repos\UsandoTaskRun\UsandoTaskRun\obj\Debug\net8.0\UsandoTaskRun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\source\repos\UsandoTaskRun\UsandoTaskRun\obj\Debug\net8.0\UsandoTaskRun.AssemblyInfoInputs.cache
+C:\Users\migue\source\repos\UsandoTaskRun\UsandoTaskRun\obj\Debug\net8.0\UsandoTaskRun.AssemblyInfo.cs
+C:\Users\migue\source\repos\UsandoTaskRun\UsandoTaskRun\obj\Debug\net8.0\UsandoTaskRun.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\UsandoTaskRun\UsandoTaskRun\obj\Debug\net8.0\UsandoTaskRun.dll
+C:\Users\migue\source\repos\UsandoTaskRun\UsandoTaskRun\obj\Debug\net8.0\refint\UsandoTaskRun.dll
+C:\Users\migue\source\repos\UsandoTaskRun\UsandoTaskRun\obj\Debug\net8.0\UsandoTaskRun.pdb
+C:\Users\migue\source\repos\UsandoTaskRun\UsandoTaskRun\obj\Debug\net8.0\UsandoTaskRun.genruntimeconfig.cache
+C:\Users\migue\source\repos\UsandoTaskRun\UsandoTaskRun\obj\Debug\net8.0\ref\UsandoTaskRun.dll

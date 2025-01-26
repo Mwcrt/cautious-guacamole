@@ -1,0 +1,14 @@
+C:\Users\migue\source\repos\UsandoTaskContinue\UsandoTaskContinue\bin\Debug\net8.0\UsandoTaskContinue.exe
+C:\Users\migue\source\repos\UsandoTaskContinue\UsandoTaskContinue\bin\Debug\net8.0\UsandoTaskContinue.deps.json
+C:\Users\migue\source\repos\UsandoTaskContinue\UsandoTaskContinue\bin\Debug\net8.0\UsandoTaskContinue.runtimeconfig.json
+C:\Users\migue\source\repos\UsandoTaskContinue\UsandoTaskContinue\bin\Debug\net8.0\UsandoTaskContinue.dll
+C:\Users\migue\source\repos\UsandoTaskContinue\UsandoTaskContinue\bin\Debug\net8.0\UsandoTaskContinue.pdb
+C:\Users\migue\source\repos\UsandoTaskContinue\UsandoTaskContinue\obj\Debug\net8.0\UsandoTaskContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\source\repos\UsandoTaskContinue\UsandoTaskContinue\obj\Debug\net8.0\UsandoTaskContinue.AssemblyInfoInputs.cache
+C:\Users\migue\source\repos\UsandoTaskContinue\UsandoTaskContinue\obj\Debug\net8.0\UsandoTaskContinue.AssemblyInfo.cs
+C:\Users\migue\source\repos\UsandoTaskContinue\UsandoTaskContinue\obj\Debug\net8.0\UsandoTaskContinue.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\UsandoTaskContinue\UsandoTaskContinue\obj\Debug\net8.0\UsandoTaskContinue.dll
+C:\Users\migue\source\repos\UsandoTaskContinue\UsandoTaskContinue\obj\Debug\net8.0\refint\UsandoTaskContinue.dll
+C:\Users\migue\source\repos\UsandoTaskContinue\UsandoTaskContinue\obj\Debug\net8.0\UsandoTaskContinue.pdb
+C:\Users\migue\source\repos\UsandoTaskContinue\UsandoTaskContinue\obj\Debug\net8.0\UsandoTaskContinue.genruntimeconfig.cache
+C:\Users\migue\source\repos\UsandoTaskContinue\UsandoTaskContinue\obj\Debug\net8.0\ref\UsandoTaskContinue.dll
